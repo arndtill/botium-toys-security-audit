@@ -23,12 +23,12 @@ These characteristics establish the working scenario for this educational assess
 
 The assesment will focus on the following areas:
 
--**Information Assets**: Customer records, employee information, business records and inventory data.
--**IT infrastructure**: Computers, operating systems, networks and bussiness applications.
--**Access Control**: User permissions, authentication and account management.
--**Data Protection**: Information handling, encryption and backup practices.
--**Payment Security**: Risks associated with electronic payment processing.
--**Security Operations**: Monitoring, incident detection and response capabilities.
+-__Information Assets:__ Customer records, employee information, business records and inventory data.
+-__IT infrastructure:__ Computers, operating systems, networks and bussiness applications.
+-__Access Control:__ User permissions, authentication and account management.
+-__Data Protection:__ Information handling, encryption and backup practices.
+-__Payment Security:__ Risks associated with electronic payment processing.
+-__Security Operations:__ Monitoring, incident detection and response capabilities.
 
 ## Out of Scope:
 
