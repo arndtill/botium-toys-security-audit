@@ -24,7 +24,7 @@ The General Data Protection Regulation (GDPR) establishes requirements for prote
 | Requirement | Status | Evidence and Observations |
 |---|---|---|
 | EU customers's data is kept private and secure | Does not Meet | All employees have access to internally stored data, and customer credit card information is not encrypted. |
-| A plan exists to notify EU customers within 72 hours of a data breach | Meets | The organization has a plan to notify EU customers within 72 hours of a security breach. |
+| A breach notification plan is established. | Meets Case Study Criteria | The case study states that Botium Toys plans to notify EU customers within 72 hours of a security breach. This is the stated case-study practice, not a verification of GDPR compliance. |
 | Data is properly classified and inventoried | Does Not Meet | Asset management is inadequate and IT may not know whic assets are at risk. |
 | Privacy policies, procedures and processes are documented and maintained. | Meets | The organization has developed and enforces privacy policies, procedures and processes among IT and other employees. |
 
