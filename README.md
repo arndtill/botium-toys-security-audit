@@ -4,7 +4,7 @@
 
 This project is based on a security audit exercise from the Google Cybersecurity Professional Certificate.
 
-The assessment focuses on identifying organizational assets, evualuating existing security controls, reviewing compliance practices and identifying potential security risks.
+The assessment focuses on identifying organizational assets, evaluating existing security controls, reviewing compliance practices and identifying potential security risks.
 
 It is intended for educational purposes and does not represent a real-world security audit.
 
