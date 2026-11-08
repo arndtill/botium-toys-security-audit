@@ -11,7 +11,7 @@ The inventory is based on the information provided in the original Google Cybers
 | Asset Category | Identified Assets | Description |
 |---|---|---|
 | On-premises Equipment | Office equipment | Equipment used to support business operations at the company's physical offices. |
-| Employee Equipment | Desktops, laptops, smartphones, remote workstations, headsets, cables, keyboards, mouse and docking stations | Devices and peripherals used by employees for business activities, including remote work. |
+| Employee Equipment | Desktops, laptops, smartphones, remote workstations, headsets, cables, keyboards, mice and docking stations | Devices and peripherals used by employees for business activities, including remote work. |
 | Physical Security Equipment | Surveillance cameras | Cameras used to monitor the company's physical locations. |
 | Storefront and Warehouse Inventory | Retail products | Products available for sale at the physical storefront and online, stored in the adjoining warehouse. |
 | Business Systems | Accounting, telecommunications, database, security, e-commerce and inventory management systems | Systems, software and services managed by IT to support business operations. |
