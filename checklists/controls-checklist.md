@@ -1,12 +1,12 @@
-# Security Controls Checkilst
+# Security Controls Checklist
 
-# 1. Overview
+## 1. Overview
 
 This checklist evaluates the security controls currently implemented at Botium Toys, based on the information provided in the case study.
 
 The assessment identifies existing controls, missing controls and areas where current implementations require improvement.
 
-# 2. Controls Assessment
+## 2. Controls Assessment
 
 | Security Control | Implemented | Evidence and Observations |
 |---|---|---|
@@ -14,11 +14,11 @@ The assessment identifies existing controls, missing controls and areas where cu
 | Disaster Recovery Plans | No | The organization does not currently have disaster recovery plans. |
 | Password Policies | Yes | A password policy exists, but its requirements do not meet current minimum complexity expectations. |
 | Separation of Duties | No | Separation of duties has not been implemented. |
-| Firewall | Yes | IT has implemented a firewall with appropiately defined security rules. |
+| Firewall | Yes | IT has implemented a firewall with appropriately defined security rules. |
 | Intrusion Detection System (IDS) | No | The organization does not have an IDS installed. |
 | Data Backups | No | Critical data is not currently backed up. |
 | Antivirus | Yes | Antivirus software is installed and regularly monitored by IT. |
-| Manual Monitoring and Maintenance of Legacy Systems | Yes | Legacy Systems are monitored and maintained, but there is no regular schedule and interventions methods are unclear. |
+| Manual Monitoring and Maintenance of legacy systems | Yes | Legacy Systems are monitored and maintained, but there is no regular schedule and intervention methods are unclear. |
 | Encryption | No | Customer Credit Card information is not encrypted. |
 | Password Management System | No | There is no centralized password management system enforcing minimum password requirements. |
 | Physical Locks | Yes | The main offices, storefront and warehouse have sufficient locks. |
@@ -56,4 +56,4 @@ Existing controls reported as implemented:
 
 This checklist is based on the information provided in the original Google Cybersecurity Professional Certificate case study.
 
-No independent techincal testing or verification of the organization's controls was performed.
+No independent technical testing or verification of the organization's controls was performed.
