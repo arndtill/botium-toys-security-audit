@@ -12,7 +12,7 @@ PCI DSS establishes security requirements for organizations that accept, process
 
 | Requirement | Status | Evidence and Observations |
 |---|---|---|
-| Only authorized users have access to customers's credit card information. | Does Not Meet | All employees have access to internally stored data and may access cardholder information. |
+| Only authorized users have access to customer's credit card information. | Does Not Meet | All employees have access to internally stored data and may access cardholder information. |
 | Credit Card Information is stored, accepted, processed and transmitted in a secure environment | Does Not Meet | The case identifies insufficient access restrictions and a lack of encryption for customer credit card information. |
 | Encryption procedures are implemented for payment information | Does Not Meet | Customer Credit Card information is not currently encrypted. |
 | Secure password management policies are implemented. | Does Not Meet | A password policy exists, but its requirements are insufficient. There is also no centralized password management system. |
@@ -23,9 +23,9 @@ The General Data Protection Regulation (GDPR) establishes requirements for prote
 
 | Requirement | Status | Evidence and Observations |
 |---|---|---|
-| EU customers's data is kept private and secure | Does not Meet | All employees have access to internally stored data, and customer credit card information is not encrypted. |
+| EU customers's data is kept private and secure | Does Not Meet | All employees have access to internally stored data, and customer credit card information is not encrypted. |
 | A breach notification plan is established. | Meets Case Study Criteria | The case study states that Botium Toys plans to notify EU customers within 72 hours of a security breach. This is the stated case-study practice, not a verification of GDPR compliance. |
-| Data is properly classified and inventoried | Does Not Meet | Asset management is inadequate and IT may not know whic assets are at risk. |
+| Data is properly classified and inventoried | Does Not Meet | Asset management is inadequate and IT may not know which assets are at risk. |
 | Privacy policies, procedures and processes are documented and maintained. | Meets | The organization has developed and enforces privacy policies, procedures and processes among IT and other employees. |
 
 ## 4. SOC Assessment
@@ -39,7 +39,7 @@ System and Organization Controls (SOC) are used to evaluate controls related to 
 | Data integrity is maintained through consistent, complete, accurate and validated information. | Meets | IT has implemented controls to ensure data integrity. |
 | Data is available to authorized individuals. | Partially Meets | IT has ensured data availability, but access is not sufficiently restricted through least privilege. |
 
-### 5. Assessment Summary
+## 5. Assessment Summary
 
 The assessment identifies significant gaps in Botium Toys's compliance practices.
 
@@ -57,7 +57,7 @@ GDPR:
 
 SOC:
 
-- User access restrinctions are insufficient.
+- User access restrictions are insufficient.
 - Sensitive customer information is not adequately protected.
 - Data integrity controls and availability measures are reported as implemented.
 
@@ -65,4 +65,4 @@ SOC:
 
 This assessment is only based on the information provided in the case study. No independent compliance audit, technical testing, or legal review was performed.
 
-The results indicate potential compliance gaps and should not be intepreted as a formal determination of regulatory compliance.
+The results indicate potential compliance gaps and should not be interpreted as a formal determination of regulatory compliance.
