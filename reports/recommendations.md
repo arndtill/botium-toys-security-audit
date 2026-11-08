@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This document presents security recommendations based on the findings of th Botium Toys security audit case study.
+This document presents security recommendations based on the findings of the Botium Toys security audit case study.
 
 The recommendations focus on addressing identified security gaps, reducing potential risks and improving the organization's overall security posture.
 
@@ -15,7 +15,7 @@ All employees have access to internally stored data. Least privilege and separat
 
 **Recommended Actions:**
 
-- Restrict access to sensitive information based on employees's job responsibilities.
+- Restrict access to sensitive information based on employee's job responsibilities.
 - Apply the principle of least privilege to user accounts.
 - Separate critical responsibilities to reduce the risk of unauthorized actions.
 - Review user permissions regularly.
@@ -54,13 +54,13 @@ Botium Toys does not have backups of critical data or disaster recovery plans.
 
 - Establish regular backups of critical business data.
 - Store backup copies separately from primary systems.
-- Define Backup schedules and retention requirements.
+- Define backup schedules and retention requirements.
 - Develop a disaster recovery plan.
-- Test Backup restoration procedures periodically.
+- Test backup restoration procedures periodically.
 
 **Expected Outcome:**
 
-Improved Business continuity and the ability to recover critical information after data loss or a disruptive event.
+Improved business continuity and the ability to recover critical information after data loss or a disruptive event.
 
 ### 2.4 Improve Password Management
 
@@ -79,7 +79,7 @@ The existing password policy has insufficient requirements and there is no centr
 
 Reduced risk of password-related account compromise and improved account management efficiency.
 
-Priority: High
+**Priority:** High
 
 ### 2.5 Implement Intrusion Detection Capabilities
 
@@ -111,7 +111,7 @@ Legacy systems are monitored and maintained, but there is no regular maintenance
 - Establish a documented maintenance schedule.
 - Define procedures for identifying and addressing system issues.
 - Keep an inventory of legacy systems and their status.
-- Evaluate the possiblity of replacing systems that can no longer be adequately maintained.
+- Evaluate the possibility of replacing systems that can no longer be adequately maintained.
 
 **Expected Outcome:**
 
@@ -129,7 +129,7 @@ The organization does not have asset management practices, making it difficult f
 
 - Maintain an up-to-date inventory of organizational assets.
 - Classify assets according to their sensitivity and business importance.
-- Idenfity asset owners and responisble departments.
+- Idenfity asset owners and responsible departments.
 - Document the systems and information that are critical to business operations.
 - Review the inventory regularly
  
@@ -137,7 +137,7 @@ The organization does not have asset management practices, making it difficult f
 
 Improved asset visibility and more effective identification, prioritization and management of security risks.
 
-Priority: High
+**Priority:** High
 
 ## 3. Implementation Priorities
 
@@ -149,7 +149,7 @@ The following table summarizes the recommended implementation order based on the
 | High | Implement encryption for sensitive customer information. |
 | High | Establish data backups and disaster recovery plans. |
 | High | Improve password policies and centralized password management. |
-| High | Implement Intrusion detection capabilites. |
+| High | Implement intrusion detection capabilites. |
 | High | Implement asset identification and classification. |
 | Medium | Establish regular legacy system maintenance procedures. |
 
