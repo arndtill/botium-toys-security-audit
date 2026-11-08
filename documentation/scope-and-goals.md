@@ -6,7 +6,7 @@ This project is based on the Botium Toys security audit activity from the Google
 
 The objective is to assess the organization's existing security controls, review its compliance practices, identify potential risks and recommend improvements to its overall security posture.
 
-This is an educational assessment based on the information provided in the original case study. No direct access to Botium Toys's systems or infrastructure was performed.
+This is an educational assessment based on the information provided in the original case study. No direct access to Botium Toys' systems or infrastructure was obtained.
 
 ## 2. Audit Scope
 
@@ -19,7 +19,7 @@ The assessment includes the organization's assets, employee equipment and device
 The following assets are included in the assessment:
 
 - **On-premises Equipment:** Equipment used for in-office business operations.
-- **Employee Equipment:** Desktops, laptops, smartphones, remote workstations, headsets, cables, keyboards, mouse, docking stations, surveillance cameras and other related devices.
+- **Employee Equipment:** Desktops, laptops, smartphones, remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras and other related devices.
 - **Storefront Products:** Products available for retail sale on-site and online, stored in the company's adjoining warehouse.
 - **Systems, Software and Services:** Accounting, telecommunication, database, security, e-commerce and inventory management systems.
 - **Internet Access:** Internet connectivity required for business operations.
